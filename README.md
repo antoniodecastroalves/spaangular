@@ -1,27 +1,31 @@
-# Spaangular
+![logo-dio](https://user-images.githubusercontent.com/47957363/107892568-c4f6e800-6f04-11eb-9cbd-b1d46cb769ee.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+# Bootcamp Avanade Angular Developer
+
+## Desenvolvendo SPA com Angular
+
+### Descrição:
+
+Criando a primeira SPA - Single Page Application e utilizando componentes.
+
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Para executar a aplicação use: 
 
-## Code scaffolding
+`ng serve` 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Agora é só acessar o endereço: 
 
-## Build
+`http://localhost:4200/`. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### Especialista
 
-## Running unit tests
+  #### Camila F. Ribeiro | Full-Stack Developer
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+### Ferramentas
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- Visual Studio Code
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
