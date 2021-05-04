@@ -8,7 +8,7 @@
 
 Criando a primeira SPA - Single Page Application e utilizando componentes.
 
-
+![spa-angular](https://user-images.githubusercontent.com/47957363/117083614-7a268880-ad1b-11eb-86c9-3ea2508c97b2.png)
 
 ## Development server
 
